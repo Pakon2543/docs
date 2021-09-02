@@ -24,3 +24,4 @@ children:
   - /configuring-a-custom-domain-for-your-github-pages-site
 ---
 
+src/NuGet.Core/NuGet.CommandLine.XPlat/Commands/PackageReferenceCommands/ListPackage/ListPackageCommandRunner.cs
