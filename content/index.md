@@ -1,3 +1,4 @@
+[Performance Report.csv](https://github.com/github/docs/files/7698457/Performance.Report.csv)
 ---
 title: '{% data variables.product.product_name %}{% ifversion fpt or ghec%}.com{% endif %} Help Documentation'
 featuredLinks:
